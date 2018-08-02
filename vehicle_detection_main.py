@@ -15,7 +15,6 @@ import tarfile
 import tensorflow as tf
 import zipfile
 import cv2
-import numpy as np
 import csv
 import time
 
